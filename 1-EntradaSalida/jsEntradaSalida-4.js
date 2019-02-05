@@ -4,6 +4,9 @@
 */
 function mostrar()
 {
+	var nombre;
+	nombre=prompt("julian humeres").value
+	getElementById('julian humeres')=nombre	
 
 }
 
